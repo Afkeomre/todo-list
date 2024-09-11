@@ -60,9 +60,9 @@
 
 <style>
 	.todo-list {
-		background: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1613116968_23-p-shkolnii-fon-dlya-obyavleniya-zheltii-43.jpg');
+		background: url('https://kalix.club/uploads/posts/2022-12/1671769477_kalix-club-p-fon-dlya-prezentatsii-karandashi-instagram-68.jpg');
 		background-size: cover;
-		background-repeat: repeat-y;
+		background-position: center center;
 		font-size: 20px;
 	}
 

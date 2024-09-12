@@ -6,13 +6,14 @@ This is a Todo list application built with Vue.js. The project showcases the use
 
 ## Demo
 You can try the Todo list application online [here](https://afkeomre.github.io/todo-list/).
+If you want to see how it works, watch the [screencast](https://drive.google.com/file/d/1zmKI2aaynbGC32YA5X3Wrpde1Qq8H9qL/view).
 
 ## Features
  - **Task Addition**: enter a task in the input field and click the add button to add it to the list.
  - **Task Management**:
    - **Checkbox**: mark tasks as complete; completed tasks will be crossed out.
    - **Delete Button**: remove individual tasks from the list.
-   - **All Done Button**: mark all tasks as complete at once.
+   - **All Done Button**: mark all tasks as complete.
    - **Delete All Button**: remove all tasks from the list.
  - **Dynamic List**: tasks are numbered, and the numbering adjusts automatically when tasks are deleted from the list.
  - **Empty State**: displays a message when the list is empty, both before any tasks are added and after all tasks have been deleted.

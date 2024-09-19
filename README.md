@@ -1,4 +1,4 @@
-# Todo list
+# Todo List
 
 This is a Todo list application built with Vue.js. The project showcases the use of Vue Router and Vue components to manage a list of tasks with functionalities including adding, deleting, and marking tasks as complete. The application consists of two pages:
  1. **Home Page**: displays a header and a link to navigate to the Todo list page.
